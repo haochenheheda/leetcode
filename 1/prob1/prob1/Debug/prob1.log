@@ -1,0 +1,5 @@
+﻿  prob1.cpp
+  solu3.cpp
+d:\workspace\project\leetcode\1\prob1\prob1\solu3.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  prob1.vcxproj -> D:\workspace\project\leetcode\1\prob1\Debug\prob1.exe
