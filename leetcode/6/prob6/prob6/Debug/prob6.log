@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  prob6.cpp
+d:\workspace\project\leetcode\leetcode\6\prob6\prob6\solu1.h(10): warning C4018: '<': signed/unsigned mismatch
+  prob6.vcxproj -> D:\workspace\project\leetcode\leetcode\6\prob6\Debug\prob6.exe
