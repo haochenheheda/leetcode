@@ -1,0 +1,6 @@
+﻿  p113.cpp
+d:\workspace\project\leetcode\niuke\c\consoleapplication1\consoleapplication1\p113.cpp(21): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\project\leetcode\niuke\c\consoleapplication1\consoleapplication1\p113.cpp(33): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\project\leetcode\niuke\c\consoleapplication1\consoleapplication1\p113.cpp(56): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\project\leetcode\niuke\c\consoleapplication1\consoleapplication1\p113.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> D:\workspace\project\leetcode\niuke\c\ConsoleApplication1\Debug\ConsoleApplication1.exe
