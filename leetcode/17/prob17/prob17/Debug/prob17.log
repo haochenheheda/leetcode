@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  prob17.cpp
+d:\workspace\project\leetcode\leetcode\17\prob17\prob17\prob17.cpp(38): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\project\leetcode\leetcode\17\prob17\prob17\prob17.cpp(38): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type '_Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+  prob17.vcxproj -> D:\workspace\project\leetcode\leetcode\17\prob17\Debug\prob17.exe
