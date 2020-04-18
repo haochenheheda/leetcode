@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  prob18.cpp
+d:\workspace\project\leetcode\leetcode\18\prob18\prob18\prob18.cpp(12): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\project\leetcode\leetcode\18\prob18\prob18\prob18.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  prob18.vcxproj -> D:\workspace\project\leetcode\leetcode\18\prob18\Debug\prob18.exe
