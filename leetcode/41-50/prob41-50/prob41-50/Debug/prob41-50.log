@@ -1,0 +1,4 @@
+﻿  prob41-50.cpp
+d:\workspace\project\leetcode\leetcode\41-50\prob41-50\prob41-50\prob41-50.cpp(35): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\project\leetcode\leetcode\41-50\prob41-50\prob41-50\prob41-50.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  prob41-50.vcxproj -> D:\workspace\project\leetcode\leetcode\41-50\prob41-50\Debug\prob41-50.exe
